@@ -1,0 +1,11 @@
+# Copy this file to config.yaml and update local paths before running.
+# Do not commit config.yaml to GitHub.
+
+model_path: ./runs/dog_breed_classifier_cpu.pth
+device: cpu
+test_images_dir: ./test_photo
+example_images:
+  - ./test_photo/img.png
+  - ./test_photo/img_1.png
+dataset_root: ./dog_breeds_dataset
+output_dir: ./runs
