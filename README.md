@@ -20,10 +20,6 @@
    ```bash
    pip install -r requirements.txt
    ```
-4. 如需使用 YAML 配置文件，安装 PyYAML：
-   ```bash
-   pip install pyyaml
-   ```
 
 ## Usage
 
