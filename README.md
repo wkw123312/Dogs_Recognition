@@ -52,6 +52,7 @@
 
 <img width="1874" height="930" alt="d4ab584b72c58dfe2e1d2c9d90fe036" src="https://github.com/user-attachments/assets/b4182cd1-755a-4211-916e-5298c04c9b4c" />
 <img width="1876" height="927" alt="bdd406892defeac946369ee5dcaa29e" src="https://github.com/user-attachments/assets/2d8be647-2934-4967-ba85-36279f46b600" />
+
 ## Disclaimer
 
 本项目代码已做脱敏处理，已移除个人服务器硬编码路径。使用前请自行创建 `config.yaml` 并配置本地路径，确保所有路径指向合法的本地目录。请勿将个人配置文件、模型权重或私有数据提交到公共仓库。
